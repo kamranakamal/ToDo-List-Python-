@@ -76,7 +76,7 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 
 ## ✨ Author
 
-- Developed by [Your Name]
+- Developed by Kamran Akmal
 
 ---
 
